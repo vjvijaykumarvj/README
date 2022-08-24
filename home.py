@@ -1,3 +1,3 @@
-x = 20
-y = 30
-print(x + y)
+x = 500
+y = 250
+print(x - y)
